@@ -1,0 +1,12 @@
+Readme
+---
+Instructions for switching between normal and btb
+---
+
+Make copy of index file so there's a copy for later when we need to restore
+
+Copy the HTML from btb index file and put into main index file
+
+To switch back, put the HTML from the index copy into the main index file.
+
+Don't delete BTB index file because we'll use it to switch to next time
